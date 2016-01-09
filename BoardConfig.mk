@@ -17,7 +17,7 @@
 -include device/motorola/msm8960dt-common/BoardConfigCommon.mk
 
 # inherit from the proprietary version
--include vendor/motorola/ghost/BoardConfigVendor.mk
+-include vendor/moto/ghost/BoardConfigVendor.mk
 
 LOCAL_PATH := device/motorola/ghost
 
